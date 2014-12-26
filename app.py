@@ -28,6 +28,11 @@ def main(argv=None):
     for arg in args:
         process(arg)  # process() is define elsewhere
 
+def fib(n):
+    if n < 2:
+        return n
+    return fic(n-2) + fib(n-1)
+
 if __name__ == "__main__":
     main()
 
