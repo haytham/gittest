@@ -30,6 +30,7 @@ def main(argv=None):
 
 # this change was done on master and was not on new-feature branch
 # this was added as part of new-feature branch to test git rebase -i
+# this was 2nd change in test for git rebase -i
 
 if __name__ == "__main__":
     main()
