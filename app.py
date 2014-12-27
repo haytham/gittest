@@ -32,7 +32,6 @@ def main(argv=None):
 # this was added as part of new-feature branch to test git rebase -i
 # this was 2nd change in test for git rebase -i
 
-
 if __name__ == "__main__":
     main()
 
