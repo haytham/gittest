@@ -28,6 +28,8 @@ def main(argv=None):
     for arg in args:
         process(arg)  # process() is define elsewhere
 
+# this change was done on master and was not on new-feature branch
+
 if __name__ == "__main__":
     main()
 
