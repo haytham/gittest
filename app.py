@@ -29,6 +29,7 @@ def main(argv=None):
         process(arg)  # process() is define elsewhere
 
 # this change was done on master and was not on new-feature branch
+# this was added as part of new-feature branch to test git rebase -i
 
 
 if __name__ == "__main__":
